@@ -1,8 +1,8 @@
 {
-    "token": "your-token-here",
-    "prefix": "g!",
-    "name": "Starlight Glimmer",
-    "invite": "your-invite-link-here",
+    "token": NDQ3ODc2NDk3MDM4OTAxMjU5.XKLa5w.d3KG4oVMmIT62SeG3LBivz9wMJM",
+    "prefix": "/",
+    "name": "Gunter",
+    "invite": "https://discordapp.com/oauth2/authorize?&client_id=405480380930588682&scope=bot&permissions=35840",
     "pixelzone_api_key": null,
 
     "preview_height": 240,
